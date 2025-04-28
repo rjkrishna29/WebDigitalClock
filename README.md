@@ -2,6 +2,7 @@
 
 A sleek and fully functional Digital Clock web app built with HTML, CSS, and JavaScript.
 Along with showing the real-time clock, it also includes a Stopwatch and a Countdown Timer — all in one simple interface!
+
 📋 Features:
 
     Digital Clock: Shows the current real-time, updates every second.
