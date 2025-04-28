@@ -22,13 +22,8 @@ Along with showing the real-time clock, it also includes a Stopwatch and a Count
 
     JavaScript (Vanilla JS)
 
-🚀 Future Improvements (Optional):
+![clock](https://github.com/user-attachments/assets/e7e4f654-1d68-41ad-9fb4-637be5deed3e)
 
-    Add audio notifications for timer completion
-
-    Allow customizable timer presets
-
-    Theme switching (dark mode / light mode)
 
 📌 Live Demo:
 
