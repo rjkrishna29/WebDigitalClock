@@ -32,4 +32,4 @@ Along with showing the real-time clock, it also includes a Stopwatch and a Count
 
 📌 Live Demo:
 
-(Add the link once you host it on GitHub Pages!)
+    https://rjkrishna29.github.io/WebDigitalClock/
